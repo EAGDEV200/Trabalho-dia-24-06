@@ -1,0 +1,22 @@
+.filme-details-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 50px;
+  }
+  
+  .filme-details-poster {
+    margin-right: 50px;
+  }
+  
+  .filme-details-poster img {
+    max-width: 100%;
+  }
+  
+  .filme-details-info {
+    flex-grow: 1;
+  }
+  
